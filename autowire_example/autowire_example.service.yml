@@ -1,0 +1,4 @@
+services:
+  example.example_service:
+    class: Drupal\autowire_example\ExampleService
+    autowire: true

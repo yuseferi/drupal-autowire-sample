@@ -2,6 +2,8 @@
 sites/*/*settings*.php
 sites/example.sites.php
 
+.idea
+
 # Ignore paths that contain generated content.
 files/
 sites/*/files
